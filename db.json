@@ -1,0 +1,24 @@
+{
+  "heading": "How Udelo works?",
+  "headingText": "Very easy to use app. With these few steps, you are good to start earning money/get your parcels delivered.",
+  "workData": [
+    {
+      "id": 1,
+      "image": "/img/work_thumb_1.png",
+      "title": "Install the App",
+      "content": "Install the pp from either Appstore or google playstore.?"
+    },
+    {
+      "id": 2,
+      "image": "/img/work_thumb_2.png",
+      "title": "Setup your profile",
+      "content": "Create an account and setup your payment to be able to accept funds after delivery of packages."
+    },
+    {
+      "id": 3,
+      "image": "/img/work_thumb_3.png",
+      "title": "Enjoy the features!",
+      "content": "Enjoy the amazing features we have provided to earn money."
+    }
+  ]
+}
