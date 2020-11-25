@@ -196,24 +196,24 @@
     },
     "themeOneContactSection": {
       "heading": "Stay Tuned",
-      "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-      "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
-      "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "headingText": "Get in touch anytime with your feedback or bugs in rare occassions.",
+      "headingTexttwo": "We always look forward to hear from you.",
+      "content": "Contrary to popular belief, we are a customer centered platform, your feedback is very important to us. Keep us in the llop",
       "iconList": [
         {
           "id": 1,
           "iconClass": "fas fa-home",
-          "text": "Vestibulum nulla libero, convallis, tincidunt suscipit diam, DC 2002"
+          "text": "7120 Rock Ridge Lane Apt. K, Alexandria Virginia, 22315"
         },
         {
           "id": 2,
           "iconClass": "fas fa-phone-alt",
-          "text": "+1 230 456 789-012 345 6789"
+          "text": " +1 (703) 479 9724"
         },
         {
           "id": 3,
           "iconClass": "fas fa-envelope",
-          "text": "exampledomain@domain.com"
+          "text": "udel.development@gmail.com"
         }
       ]
     }
