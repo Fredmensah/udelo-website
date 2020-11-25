@@ -216,5 +216,85 @@
           "text": "udel.development@gmail.com"
         }
       ]
+    },
+    "themeOneFooterSection": {
+      "image": "/img/logo.png",
+      "text": "Delivery through amazing people.",
+      "linkText_1": "Useful Links",
+      "linkText_2": "Product Help",
+      "linkText_3": "Download",
+      "iconList": [
+        {
+          "id": 1,
+          "link": "facebook",
+          "iconClass": "fab fa-facebook-f"
+        },
+        {
+          "id": 2,
+          "link": "twitter",
+          "iconClass": "fab fa-twitter"
+        },
+        {
+          "id": 3,
+          "link": "google-plus",
+          "iconClass": "fab fa-instagram"
+        }
+      ],
+      "footerList_1": [
+        {
+          "id": 1,
+          "text": "Home"
+        },
+        {
+          "id": 2,
+          "text": "About Us"
+        },,
+        {
+          "id": 5,
+          "text": "Contact"
+        }
+      ],
+      "footerList_2": [
+        {
+          "id": 1,
+          "text": "FAQ"
+        },
+        {
+          "id": 2,
+          "text": "Privacy Policy"
+        },
+        {
+          "id": 5,
+          "text": "Contact"
+        }
+      ],
+      "footerList_3": [
+        {
+          "id": 1,
+          "image": "/img/google-play-black.png"
+        },
+        {
+          "id": 2,
+          "image": "/img/app-store-black.png"
+        }
+      ],
+      "footerList_4": [
+        {
+          "id": 1,
+          "text": "Affiliate program"
+        },
+        {
+          "id": 2,
+          "text": "Terms & Conditions"
+        },
+        {
+          "id": 3,
+          "text": "Privacy Policy"
+        },
+        {
+          "id": 4,
+          "text": "Refund Policy"
+        }
+      ]
     }
 }
